@@ -1,0 +1,11 @@
+{
+    "BinanceKeys": {
+        "API_Key": "RDKeSHynRtbjHkHGVsUJvv1lcu91LyJZC2eEDCNSeXdYdZzvX3RXVmIDQMov63ew",
+        "Secret_Key": "KYdvR1S7WUAvjOX5pf9zhyO9BgJiwhJvbqgyZqenyawugBpKfV6p1dNXrO05V2bT"
+    },
+    "TestKeys": {
+        "Test_API_Key": "YourTestAPIKey",
+        "Test_Secret_Key": "YourSuperSecretTestKey"
+    },
+    "Testing": "True"
+}
